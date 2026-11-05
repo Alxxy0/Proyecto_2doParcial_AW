@@ -1,0 +1,12 @@
+
+  body{font-family:Arial, sans-serif; color:#1e293b; line-height:1.6}
+  .menu{position:fixed; width:220px; height:100%; background:#0f4c75; padding-top:10px}
+  .menu h3{color:white; text-align:center; padding:18px}
+  .menu a{display:block; color:white; text-decoration:none; text-align:center; padding:14px; border-top:1px solid rgba(255,255,255,0.2)}
+  main{margin-left:220px}
+  #inicio{padding:70px 40px}
+  #inicio .contenido{max-width:800px; margin:auto; text-align:center}
+  #inicio h1{font-size:36px; color:#0f4c75}
+  #inicio h2{font-size:26px; color:#0f4c75; margin-bottom:20px}
+  #inicio img{max-width:100%; height:auto; margin-top:20px}
+  @media(max-width:700px){ .menu{position:relative; width:100%; height:auto} main{margin-left:0} }
