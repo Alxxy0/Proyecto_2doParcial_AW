@@ -53,3 +53,20 @@
 #casos p{margin-bottom:12px; font-size:15px}
 #casos .tarjeta{background:#f4f9fb; border-left:4px solid #0f4c75; padding:15px 20px; margin:15px 0; text-align:left}
 #casos .tarjeta p{margin:0; font-size:15px}
+
+#quejas{padding:70px 40px; background:#f4f9fb}
+#quejas .contenido{max-width:800px; margin:auto; text-align:center}
+#quejas h2{font-size:26px; color:#0f4c75; margin-bottom:20px}
+#quejas p{margin-bottom:12px; font-size:15px}
+#quejas form{max-width:600px; margin:20px auto; text-align:left; background:white; padding:20px; border:1px solid #cbd5e1}
+#quejas label{display:block; font-size:14px; margin:12px 0 5px; color:#0f4c75; font-weight:bold}
+#quejas input, #quejas select, #quejas textarea{width:100%; padding:10px; border:1px solid #cbd5e1; font-size:14px; font-family:Arial, sans-serif; box-sizing:border-box}
+#quejas button{background:#0f4c75; color:white; border:none; padding:12px 20px; font-size:15px; cursor:pointer; margin-top:15px; width:100%}
+
+#contacto{padding:70px 40px; background:#f4f9fb}
+#contacto .contenido{max-width:800px; margin:auto; text-align:center}
+#contacto h2{font-size:26px; color:#0f4c75; margin-bottom:20px}
+#contacto p{margin-bottom:12px; font-size:15px}
+#contacto .botones{display:flex; gap:15px; justify-content:center; flex-wrap:wrap; margin-top:20px}
+#contacto .botones a{background:#25D366; color:white; text-decoration:none; padding:14px 22px; font-size:16px; font-weight:bold}
+#contacto .botones a:hover{background:#1fb857}
