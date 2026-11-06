@@ -21,3 +21,19 @@
 #mision h2{font-size:26px; color:#0f4c75; margin-bottom:20px}
 #mision h3{font-size:18px; color:#0f4c75; margin:25px 0 10px}
 #mision p{margin-bottom:12px; font-size:15px}
+
+#productos{padding:70px 40px; background:#f4f9fb}
+#productos .contenido{max-width:800px; margin:auto; text-align:center}
+#productos h2{font-size:26px; color:#0f4c75; margin-bottom:20px}
+#productos p{margin-bottom:12px; font-size:15px}
+#productos table{width:100%; border-collapse:collapse; margin-top:15px; background:white; text-align:left}
+#productos th, #productos td{border:1px solid #cbd5e1; padding:10px}
+#productos th{background:#0f4c75; color:white; font-size:13px}
+
+#clientes{padding:70px 40px}
+#clientes .contenido{max-width:800px; margin:auto; text-align:center}
+#clientes h2{font-size:26px; color:#0f4c75; margin-bottom:20px}
+#clientes h3{font-size:18px; color:#0f4c75; margin:25px 0 10px}
+#clientes p{margin-bottom:12px; font-size:15px}
+#clientes ul{list-style:none; text-align:left; margin:10px auto; max-width:600px}
+#clientes ul li{padding:8px 0; border-bottom:1px solid #e2e8f0; font-size:15px}
