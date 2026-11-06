@@ -70,3 +70,10 @@
 #contacto .botones{display:flex; gap:15px; justify-content:center; flex-wrap:wrap; margin-top:20px}
 #contacto .botones a{background:#25D366; color:white; text-decoration:none; padding:14px 22px; font-size:16px; font-weight:bold}
 #contacto .botones a:hover{background:#1fb857}
+
+#legal{padding:70px 40px}
+#legal .contenido{max-width:800px; margin:auto; text-align:center}
+#legal h2{font-size:26px; color:#0f4c75; margin-bottom:20px}
+#legal h3{font-size:16px; color:#0f4c75; margin:20px 0 8px}
+#legal p{margin-bottom:12px; font-size:14px; text-align:left}
+#legal .caja{background:#f4f9fb; border:1px solid #cbd5e1; padding:20px; margin-top:15px}
